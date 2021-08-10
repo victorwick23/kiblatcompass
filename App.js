@@ -36,7 +36,7 @@ const App = () => {
   return (
     <View style={styles.container}>
       <View style={styles.body}>
-        <Text style={styles._text}>COMPASS KIBLAT </Text>
+        <Text style={styles._text}>COMPASS KIBLAT v1 </Text>
         {/* <Text style={styles._text2}>Made for the one who bring me back to goodness</Text> */}
         <View
           style={{
